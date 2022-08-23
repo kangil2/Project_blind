@@ -7,7 +7,7 @@
 
 ## ERD
 
-![image](https://user-images.githubusercontent.com/87291926/176583693-827cb80e-13ce-4c34-8eaf-9ca11e067a0b.png)
+![image](https://user-images.githubusercontent.com/87291926/186044358-eaafaa0b-c7b0-47e0-be2a-abaf01db4d33.png)
 
 [ERD 링크](https://dbdiagram.io/d/620a46f385022f4ee58d688d)
 
