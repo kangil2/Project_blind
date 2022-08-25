@@ -3,7 +3,7 @@ from django.db import models
 from core.models import TimeStampModel
 
 class Category(models.Model):
-    content = models.CharField(max_length=30)
+    name = models.CharField(max_length=30)
     
     class Meta:
         db_table = 'categories'
